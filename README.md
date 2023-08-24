@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @REAPERSCRIPTS
+- i just started to learn python so please dont bully my coding
+- but i just post my projects and ideas on here so enjoy
